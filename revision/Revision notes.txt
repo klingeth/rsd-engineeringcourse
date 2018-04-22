@@ -1,0 +1,4 @@
+Revision Notes:
+
+map() :
+	applies a function to every element in a list
